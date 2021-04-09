@@ -1,5 +1,7 @@
 # Object.fromEntries
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 This repository is now archived, since the proposal is stage 4.
 
 A proposal for a new static method `Object.fromEntries` in ECMAScript for transforming a list of key-value pairs into an object.
